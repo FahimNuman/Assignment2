@@ -1,0 +1,11 @@
+F:\C# A-Z\secondcode\secondcode\bin\Debug\netcoreapp2.2\secondcode.deps.json
+F:\C# A-Z\secondcode\secondcode\bin\Debug\netcoreapp2.2\secondcode.runtimeconfig.json
+F:\C# A-Z\secondcode\secondcode\bin\Debug\netcoreapp2.2\secondcode.runtimeconfig.dev.json
+F:\C# A-Z\secondcode\secondcode\bin\Debug\netcoreapp2.2\secondcode.dll
+F:\C# A-Z\secondcode\secondcode\bin\Debug\netcoreapp2.2\secondcode.pdb
+F:\C# A-Z\secondcode\secondcode\obj\Debug\netcoreapp2.2\secondcode.csprojAssemblyReference.cache
+F:\C# A-Z\secondcode\secondcode\obj\Debug\netcoreapp2.2\secondcode.csproj.CoreCompileInputs.cache
+F:\C# A-Z\secondcode\secondcode\obj\Debug\netcoreapp2.2\secondcode.AssemblyInfoInputs.cache
+F:\C# A-Z\secondcode\secondcode\obj\Debug\netcoreapp2.2\secondcode.AssemblyInfo.cs
+F:\C# A-Z\secondcode\secondcode\obj\Debug\netcoreapp2.2\secondcode.dll
+F:\C# A-Z\secondcode\secondcode\obj\Debug\netcoreapp2.2\secondcode.pdb

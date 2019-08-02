@@ -1,0 +1,11 @@
+F:\C# A-Z\FirstCoding\FirstCoding\bin\Debug\netcoreapp2.2\FirstCoding.deps.json
+F:\C# A-Z\FirstCoding\FirstCoding\bin\Debug\netcoreapp2.2\FirstCoding.runtimeconfig.json
+F:\C# A-Z\FirstCoding\FirstCoding\bin\Debug\netcoreapp2.2\FirstCoding.runtimeconfig.dev.json
+F:\C# A-Z\FirstCoding\FirstCoding\bin\Debug\netcoreapp2.2\FirstCoding.dll
+F:\C# A-Z\FirstCoding\FirstCoding\bin\Debug\netcoreapp2.2\FirstCoding.pdb
+F:\C# A-Z\FirstCoding\FirstCoding\obj\Debug\netcoreapp2.2\FirstCoding.csprojAssemblyReference.cache
+F:\C# A-Z\FirstCoding\FirstCoding\obj\Debug\netcoreapp2.2\FirstCoding.csproj.CoreCompileInputs.cache
+F:\C# A-Z\FirstCoding\FirstCoding\obj\Debug\netcoreapp2.2\FirstCoding.AssemblyInfoInputs.cache
+F:\C# A-Z\FirstCoding\FirstCoding\obj\Debug\netcoreapp2.2\FirstCoding.AssemblyInfo.cs
+F:\C# A-Z\FirstCoding\FirstCoding\obj\Debug\netcoreapp2.2\FirstCoding.dll
+F:\C# A-Z\FirstCoding\FirstCoding\obj\Debug\netcoreapp2.2\FirstCoding.pdb

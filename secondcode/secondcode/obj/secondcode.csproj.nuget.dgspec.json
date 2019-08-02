@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\C# A-Z\\secondcode\\secondcode\\secondcode.csproj": {}
+  },
+  "projects": {
+    "F:\\C# A-Z\\secondcode\\secondcode\\secondcode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C# A-Z\\secondcode\\secondcode\\secondcode.csproj",
+        "projectName": "secondcode",
+        "projectPath": "F:\\C# A-Z\\secondcode\\secondcode\\secondcode.csproj",
+        "packagesPath": "C:\\Users\\FAHIM NUMAN\\.nuget\\packages\\",
+        "outputPath": "F:\\C# A-Z\\secondcode\\secondcode\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FAHIM NUMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
